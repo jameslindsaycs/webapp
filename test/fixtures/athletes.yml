@@ -7,7 +7,7 @@ one:
   rating: 9.99
 
 two:
-  name: MyString
+  name: MyString2
   description: MyText
   image_url: noneYet.jpg
   rating: 9.99
