@@ -3,11 +3,11 @@
 one:
   name: MyString
   description: MyText
-  image_url: MyString
+  image_url: noneYet.jpg
   rating: 9.99
 
 two:
   name: MyString
   description: MyText
-  image_url: MyString
+  image_url: noneYet.jpg
   rating: 9.99
